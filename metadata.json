@@ -1,0 +1,5 @@
+{
+  "name": "Sonic Vision - Audio to Video",
+  "description": "Transform your audio tracks into stunning AI-generated videos using Gemini 2.5 Flash for analysis and Veo for video generation.",
+  "requestFramePermissions": []
+}
